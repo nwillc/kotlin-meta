@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "ksvg": "git@github.com:nwillc/ksvg.git",
+    "slf4jkext": "git@github.com:nwillc/slf4jkext.git",
+    "ket": "git@github.com:nwillc/ket.git",
+    "ksnip": "git@github.com:nwillc/ksnip.git"
+  }
+}
